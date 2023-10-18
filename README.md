@@ -11,7 +11,7 @@ Front-end Developer
 
 <a href="https://www.github.com/isdevmuhammed" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/isdevmuhammed?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/iam_mm4real" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Iambigeazi?logo=twitter&style=for-the-badge&color=3382ed&labelColor=365314"
+src="https://img.shields.io/twitter/follow/isdevmuhammed?logo=twitter&style=for-the-badge&color=3382ed&labelColor=365314"
 /></a>
 
 
