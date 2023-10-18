@@ -9,7 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning Solidity
 * 🤝  I'm open to collaborating on Open Source Projects
 
-  <img align="left"  width="150" height="150" src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif"></a>
+  <img align="center"  width="150" height="150" src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif"></a>
 
 <a href="https://www.github.com/isdevmuhammed" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/isdevmuhammed?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/iam_mm4real" target="_blank" rel="noreferrer"><img
