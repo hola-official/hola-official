@@ -32,10 +32,10 @@ Hi, I'm Musa Muhammed Olayinka, I've been fascinated with technology and design 
 
 ### Web technologies
 
-- JavaScript
-  
+- ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white)
 - Node.js 
-- HTML, CSS
+- HTML
+- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
   ### Languages 🌐
 
