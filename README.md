@@ -37,10 +37,10 @@ Hi, I'm Musa Muhammed Olayinka, I've been fascinated with technology and design 
 
 ### Web technologies
 
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 - ![Nodejs](https://img.shields.io/badge/logo-nodejs-blue?logo=nodejs)
-- ![HTML5](https://img.shields.io/badge/logo-html5-blue?logo=html5)
-- ![CSS](https://img.shields.io/badge/CSS-38B2AC?style=for-the-badge&logo=css&logoColor=white)
 
   ### Languages 🌐
 
