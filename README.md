@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammed Musa
 ======================================================================================================================================
 
-Full Stack Software Developer
+Front-end Developer
 -----------------------------
-
-I have MERN stack experience and I am currently building on Blockchain and Solidity.
 
 * 🌍  I'm based in Ogun, Nigeria.
 * ✉️  You can contact me at [musamuhammedolayinka@gmail.com](mailto:musamuhammedolayinka@gmail.com)
