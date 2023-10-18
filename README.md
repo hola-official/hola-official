@@ -24,7 +24,7 @@ src="https://img.shields.io/twitter/follow/isdevmuhammed?logo=twitter&style=for-
 
 <details>
   <summary>
-    More stuff about me
+    More about me
   </summary>
   
 ### Quick Overview
