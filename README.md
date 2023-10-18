@@ -80,5 +80,5 @@ Hi, I'm Musa Muhammed Olayinka, I've been fascinated with technology and design 
 ## What I'm currently learning 📚
 
 - Diving into Web 3 World
-- Latest NextJs features 
+- NextJs
 </details>
