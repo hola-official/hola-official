@@ -35,7 +35,7 @@ Hi, I'm Musa Muhammed Olayinka, I've been fascinated with technology and design 
 - ![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript&logoColor=white)
 - Node.js 
 - HTML
-- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS-38B2AC?style=for-the-badge&logo=css&logoColor=white)
 
   ### Languages 🌐
 
