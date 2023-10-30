@@ -51,20 +51,14 @@ Hi, I'm Musa Muhammed Olayinka, I've been fascinated with technology and design 
 
   </details> 
 
-  ### Languages 🌐
-
-| Language      | Proficiency                                                               |
-| ------------- | ------------------------------------------------------------------------- |
-| English       | C4 |
-| Yoruba        | Native language | 
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/isdevmuhammed"><img src="https://github-readme-stats.vercel.app/api?username=isdevmuhammed&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=365314&hide_border=true&show_icons=true" alt="isdevmuhammed's GitHub stats" /></a>
-
-<a href="http://www.github.com/isdevmuhammed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=isdevmuhammed&stroke=ffffff&background=365314&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/isdevmuhammed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isdevmuhammed&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=3382ed&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+ <details>
+ <summary>Full Stats (click me to toggle 👀)</summary>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isdevmuhammed&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=isdevmuhammed&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isdevmuhammed&theme=algolia" alt="Stat Streak" /></p>
+ <p><img src="https://github-profile-trophy.vercel.app/?username=isdevmuhammed&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+  <p><img src="profile-3d-contrib/profile-night-green.svg" alt="Github Contribution Stats" /></p>
+</details>
 
   ## 📱 Apps I use
 
