@@ -1,6 +1,6 @@
   <div>
-  <a href="https://github.com/isdevmuhammed/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=isdevmuhammed&style=for-the-badge">
+  <a href="https://github.com/hola-official/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=hola-official&style=for-the-badge">
 </a>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammed Musa
@@ -16,9 +16,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
   <img align="center"  width="150" height="150" src="https://media.giphy.com/media/m6pvmOSXuTEPaKFWBz/giphy.gif"></a>
 
-<a href="https://www.github.com/isdevmuhammed" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/isdevmuhammed?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/iam_mm4real" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/isdevmuhammed?logo=twitter&style=for-the-badge&color=3382ed&labelColor=365314"
+<a href="https://www.github.com/hola-official" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/hola-official?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/iam_mm4real" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/hola-official?logo=twitter&style=for-the-badge&color=3382ed&labelColor=365314"
 /></a>
 
 
@@ -53,10 +53,10 @@ Hi, I'm Musa Muhammed Olayinka, I've been fascinated with technology and design 
 
  <details>
  <summary>Full Stats (click me to toggle 👀)</summary>
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isdevmuhammed&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
- <p><img src="https://github-readme-stats.vercel.app/api?username=isdevmuhammed&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
- <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=isdevmuhammed&theme=algolia" alt="Stat Streak" /></p>
- <p><img src="https://github-profile-trophy.vercel.app/?username=isdevmuhammed&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hola-official&theme=algolia&hide_border=true&langs_count=5" alt="Most used languages" /></p>
+ <p><img src="https://github-readme-stats.vercel.app/api?username=hola-official&show_icons=true&theme=algolia&hide_border=true&count_private=true&line_height=27" alt="Github Stats" /></p>
+ <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hola-official&theme=algolia" alt="Stat Streak" /></p>
+ <p><img src="https://github-profile-trophy.vercel.app/?username=hola-official&theme=algolia&margin-w=5&margin-h=5" alt="Github Trophy" /></p>
   <p><img src="profile-3d-contrib/profile-night-green.svg" alt="Github Contribution Stats" /></p>
 </details>
 
