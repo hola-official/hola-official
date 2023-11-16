@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://www.github.com/hola-official" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hola-official?logo=github&style=for-the-badge&color=3382ed&labelColor=365314" /></a><a href="https://www.x.com/iam_mm4real" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hola-official?logo=twitter&style=for-the-badge&color=3382ed&labelColor=365314"
+src="https://img.shields.io/twitter/follow/hola_officia?logo=twitter&style=for-the-badge&color=3382ed&labelColor=365314"
 /></a>
 
 
