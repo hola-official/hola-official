@@ -6,7 +6,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammed Musa
 ======================================================================================================================================
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=FRONTEND+DEVELOPER;UIUX+DESIGNER)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A13A59AC&center=true&width=1000&height=52&lines=SOFTWARE+ENGINEER;PRODUCT+DESIGNER)](https://git.io/typing-svg)
 -----------------------------
 
 * 🌍  I'm based in Ogun, Nigeria.
